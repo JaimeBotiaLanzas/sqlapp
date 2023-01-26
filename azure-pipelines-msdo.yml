@@ -4,7 +4,7 @@
 # https://aka.ms/yaml
 
 trigger: none
-pool: windows-build-agent-1
+pool: windows-latest
 parameters:
 - name: config
   type: string
